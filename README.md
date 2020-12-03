@@ -12,8 +12,6 @@ model = /
 
   --model-work
 
-    (some codes to convert models)
-
   --onnx-model
 
   --tf-model
